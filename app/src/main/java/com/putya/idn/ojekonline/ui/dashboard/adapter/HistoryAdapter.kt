@@ -1,4 +1,4 @@
-package com.putya.idn.ojekonline.adapter
+package com.putya.idn.ojekonline.ui.dashboard.adapter
 
 import android.view.LayoutInflater
 import android.view.View

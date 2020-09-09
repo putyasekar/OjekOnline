@@ -12,7 +12,7 @@ import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
 import com.putya.idn.ojekonline.R
-import com.putya.idn.ojekonline.adapter.HistoryAdapter
+import com.putya.idn.ojekonline.ui.dashboard.adapter.HistoryAdapter
 import com.putya.idn.ojekonline.model.Booking
 import com.putya.idn.ojekonline.utils.Constan
 import kotlinx.android.synthetic.main.fragment_dashboard.*
